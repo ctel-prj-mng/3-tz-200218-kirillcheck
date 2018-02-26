@@ -15,7 +15,7 @@
 
 ## Характеристика объекта автоматизации
 Система автоматизирует процесс прохождения курса и получения сертификата с конечным рангом .
-![GitHub Logo](/images/converted_file_1fb64911.jpg)
+![scheme](/images/converted_file_1fb64911.jpg)
 Format: ![Alt Text](https://github.com/ctel-prj-mng/3-tz-200218-kirillcheck/blob/master/image/converted_file_1fb64911.jpg)
 
 
